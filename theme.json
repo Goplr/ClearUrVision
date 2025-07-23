@@ -1,0 +1,88 @@
+{
+  "name": "ClearVision v7 (Enhanced)",
+  "description": "Highly customizable theme made by the ClearVision Team, converted for Vendetta.",
+  "authors": [
+    {
+      "name": "ClearVision Team",
+    }
+  ],
+  "semanticColors": {
+    "HEADER_PRIMARY": [ "#fbfbfb", "#fbfbfb" ],
+    "HEADER_SECONDARY": [ "#94949c", "#94949c" ],
+    "TEXT_NORMAL": [ "#fbfbfb", "#fbfbfb" ],
+    "TEXT_MUTED": [ "#94949c", "#94949c" ],
+    "TEXT_LINK": [ "#2780e6", "#2780e6" ],
+    "TEXT_DANGER": [ "#982929", "#982929" ],
+    "TEXT_POSITIVE": [ "#43b581", "#43b581" ],
+    "INTERACTIVE_NORMAL": [ "#b9bbbe", "#b9bbbe" ],
+    "INTERACTIVE_HOVER": [ "#fbfbfb", "#fbfbfb" ],
+    "INTERACTIVE_ACTIVE": [ "#2780e6", "#2780e6" ],
+    "INTERACTIVE_MUTED": [ "#808080", "#808080" ],
+    "BACKGROUND_PRIMARY": [ "rgba(0, 0, 0, 0.6)", "rgba(0, 0, 0, 0.6)" ],
+    "BACKGROUND_SECONDARY": [ "rgba(0, 0, 0, 0.3)", "rgba(0, 0, 0, 0.3)" ],
+    "BACKGROUND_SECONDARY_ALT": [ "rgba(0, 0, 0, 0.3)", "rgba(0, 0, 0, 0.3)" ],
+    "BACKGROUND_TERTIARY": [ "rgba(0, 0, 0, 0.7)", "rgba(0, 0, 0, 0.7)" ],
+    "BACKGROUND_ACCENT": [ "#2780e6", "#2780e6" ],
+    "BACKGROUND_FLOATING": [ "rgba(0, 0, 0, 0.7)", "rgba(0, 0, 0, 0.7)" ],
+    "BACKGROUND_MOBILE_PRIMARY": [ "rgba(0, 0, 0, 0.6)", "rgba(0, 0, 0, 0.6)" ],
+    "BACKGROUND_MOBILE_SECONDARY": [ "rgba(0, 0, 0, 0.3)", "rgba(0, 0, 0, 0.3)" ],
+    "BACKGROUND_MENTIONED": [ "#2780e620", "#2780e620" ],
+    "BACKGROUND_MENTIONED_HOVER": [ "#2780e630", "#2780e630" ],
+    "BACKGROUND_MODIFIER_HOVER": [ "rgba(0, 0, 0, 0.4)", "rgba(0, 0, 0, 0.4)" ],
+    "BACKGROUND_MODIFIER_ACTIVE": [ "rgba(0, 0, 0, 0.5)", "rgba(0, 0, 0, 0.5)" ],
+    "BACKGROUND_MODIFIER_SELECTED": [ "#2780e6", "#2780e6" ],
+    "BACKGROUND_MODIFIER_ACCENT": [ "rgba(0, 0, 0, 0.5)", "rgba(0, 0, 0, 0.5)" ],
+    "INPUT_BACKGROUND": [ "rgba(255, 255, 255, 0.05)", "rgba(255, 255, 255, 0.05)" ],
+    "CHANNELS_DEFAULT": [ "#94949c", "#94949c" ],
+    "CHANNEL_ICON": [ "#b9bbbe", "#b9bbbe" ],
+    "CHAT_BACKGROUND": [ "rgba(0, 0, 0, 0.6)", "rgba(0, 0, 0, 0.6)" ],
+    "SPOILER_HIDDEN_BACKGROUND": [ "#808080", "#808080" ],
+    "SPOILER_REVEALED_BACKGROUND": [ "transparent", "transparent" ]
+  },
+  "rawColors": {
+    "PRIMARY_100": "#fbfbfb",
+    "PRIMARY_200": "#b9bbbe",
+    "PRIMARY_300": "#94949c",
+    "PRIMARY_360": "#94949c",
+    "PRIMARY_400": "#808080",
+    "PRIMARY_500": "#2780e6",
+    "PRIMARY_600": "rgba(0, 0, 0, 0.6)",
+    "PRIMARY_630": "rgba(0, 0, 0, 0.4)",
+    "PRIMARY_660": "rgba(0, 0, 0, 0.5)",
+    "PRIMARY_700": "rgba(0, 0, 0, 0.3)",
+    "PRIMARY_800": "rgba(0, 0, 0, 0.7)",
+    "BRAND_260": "#1e63b3",
+    "BRAND_360": "#2780e6",
+    "BRAND_500": "#2780e6",
+    "WHITE_500": "#fbfbfb",
+    "GREEN_360": "#43b581",
+    "YELLOW_300": "#faa61a",
+    "RED_400": "#982929",
+    "BLUE_345": "#2780e6"
+  },
+  "plus": {
+    "version": "0",
+    "customOverlays": true,
+    "mentionLineColor": "#2780e6",
+    "icons": {
+      "StatusMobileOnline": "#43b581",
+      "StatusIdle": "#faa61a",
+      "StatusDND": "#982929",
+      "StatusOffline": "#808080",
+      "StatusOnline": "#43b581",
+      "StatusStreaming": "#593695",
+      "ic_radio_circle_checked": "#2780e6",
+      "ic_radio_circle_checked__overlay": "#fbfbfb",
+      "ic_selection_checked_24px": "#2780e6",
+      "ic_selection_checked_24px__overlay": "#fbfbfb",
+      "SettingsIcon": "#b9bbbe",
+      "ReactionIcon": "#b9bbbe",
+      "ic_close_24px": "#fbfbfb"
+    }
+  },
+  "background": {
+    "url": "https://clearvision.github.io/images/sapphire.jpg",
+    "alpha": 1.0
+  },
+  "spec": 2
+}
