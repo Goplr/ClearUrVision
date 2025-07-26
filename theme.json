@@ -1,10 +1,9 @@
 {
-  "name": "ClearVision v7 (Enhanced)",
-  "description": "A port of the ClearVision theme by the ClearVision Team, adapted for Vendetta, Bunny, Revenge, and Kettu",
+  "name": "ClearVision v7",
+  "description": "A port of the ClearVision theme for Vendetta",
   "authors": [
     {
       "name": "ClearVision Team",
-      "id": "1"
     }
   ],
   "semanticColors": {
